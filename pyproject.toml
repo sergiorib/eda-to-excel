@@ -1,0 +1,25 @@
+[project]
+name = "eda-to-exel"
+version = "0.1.0"
+description = "EDA estatistics in Excel format"
+authors = [
+    {name = "Sergio Ribeiro",email = "sergiorcerqueira@gmail.com"}
+]
+
+Readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pandas (>=2.3.3,<3.0.0)",
+    "numpy (>=2.3.4,<3.0.0)",
+    "charset-normalizer (>=3.4.4,<4.0.0)",
+    "openpyxl (>=3.1.5,<4.0.0)",
+    "ipykernel (>=7.1.0,<8.0.0)",
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+package-mode = false

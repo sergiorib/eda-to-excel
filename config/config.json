@@ -1,0 +1,8 @@
+{
+  "eda_path": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\analise-dados-susep-seguros\\doc",
+  "data_path": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\analise-dados-susep-seguros\\data",
+  "log_path": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\analise-dados-susep-seguros\\logs",
+  "eda_file": "eda.xlsx",
+  "file_format" : "csv", 
+  "separator" : ";"
+}
